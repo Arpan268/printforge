@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Articulated Dragon",
+    "description": "A detailed, print-in-place dragon model with fully movable joints and wings. No supports required.",
+    "likes": 1847,
+    "image": "https://images.unsplash.com/photo-1618331835717-801e976710b2?auto=format&fit=crop&w=800&q=80",
+    "category": "toys-games",
+    "dateAdded": "2023-03-15T14:30:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Geometric Succulent Planter",
+    "description": "A modern, minimalist geometric planter perfect for small indoor succulents and cacti.",
+    "likes": 456,
+    "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=800&q=80",
+    "category": "household",
+    "dateAdded": "2023-06-22T09:15:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Cyberpunk Cosplay Helmet",
+    "description": "A multi-part, wearable sci-fi inspired helmet for cosplay. Includes channels for LED wiring.",
+    "likes": 1253,
+    "image": "https://images.unsplash.com/photo-1535295972055-1c762f4483e5?auto=format&fit=crop&w=800&q=80",
+    "category": "cosplay",
+    "dateAdded": "2023-08-10T18:45:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Alchemist's Pocket Watch Display",
+    "description": "An intricate, mechanical-style display stand designed specifically to hold vintage pocket watches.",
+    "likes": 892,
+    "image": "https://images.unsplash.com/photo-1509048191080-d2984bad6ae5?auto=format&fit=crop&w=800&q=80",
+    "category": "display",
+    "dateAdded": "2023-11-05T11:20:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Moody Desk Headphone Stand",
+    "description": "A sleek, industrial-style headphone stand that clamps directly to your desk edge.",
+    "likes": 2105,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+    "category": "tech-accessories",
+    "dateAdded": "2024-01-12T16:00:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Mechanical Switch Tester",
+    "description": "A 3x3 grid designed to hold mechanical keyboard switches for testing different tactile feels.",
+    "likes": 634,
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=800&q=80",
+    "category": "tech-accessories",
+    "dateAdded": "2024-02-28T08:10:00Z"
+  }
+]

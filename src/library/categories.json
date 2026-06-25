@@ -1,0 +1,10 @@
+[
+  { "displayName": "Cosplay", "slug": "cosplay" },
+  { "displayName": "Display Stands", "slug": "display" },
+  { "displayName": "Household", "slug": "household" },
+  { "displayName": "Tech Accessories", "slug": "tech-accessories" },
+  { "displayName": "Toys & Games", "slug": "toys-games" },
+  { "displayName": "Art", "slug": "art" },
+  { "displayName": "Miniatures", "slug": "miniatures" },
+  { "displayName": "Tools", "slug": "tools" }
+]
